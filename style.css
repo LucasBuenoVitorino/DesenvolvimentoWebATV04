@@ -1,0 +1,40 @@
+#tabela, tr, td, th{
+    border-collapse: collapse;
+    border: 1px solid black ;
+}
+
+td{
+    padding: 4px;
+}
+#tabela{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#rotina{
+    width: 100%;
+    text-align: center;
+}
+#cabecalho{
+    background-color: #92ff73;
+    font-size: 20px;
+}
+.horario{
+    background-color: #cff652;
+    font-weight: bold;
+    border: 2px groove #f4c14d;
+}
+.tarefas{
+    background-color: #E6E6FA;
+    text-align: center;
+    color: #1d1160;
+    border: 2px groove #1d1160;
+}
+.tarefas:hover{
+    background-color: #81D8D0;
+    color: #132257;
+}
+.primeira-linha{
+    border: 2px groove #4deef4;
+}
+
